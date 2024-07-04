@@ -8,3 +8,9 @@ Soy un desarrollador iOS con experiencia en Swift, SwiftUI y la librería de ser
 - **Frameworks:** SwiftUI, UIKit, Vapor
 - **Bases de datos:** SQLite, PostgreSQL
 - **Otras tecnologías:** Git, RESTful APIs
+
+## 📫 Contacto
+
+- **Email:** (mailto:gabriel.garciamillan01@gmail.com)
+- **LinkedIn:** https://www.linkedin.com/in/gabriel-garcía-millán-a86402286
+- **Twitter:** [@tuusuario](https://twitter.com/tuusuario)
